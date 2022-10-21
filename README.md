@@ -1,6 +1,6 @@
 # KillBlock
 just a try about java
-##Usage
+## Usage
 run start.java
 press space to start
 it plays like 2048
